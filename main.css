@@ -19,7 +19,7 @@
     .wish{
         position: relative;
         justify-content: center;
-        min-height: 80vh;
+        min-height: 70vh;
     }
 
     .wish video{
