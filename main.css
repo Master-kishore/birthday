@@ -12,7 +12,7 @@
 
     .wrapper{
         border: 6px solid #fff;
-        height: 700px;
+        min-height: 90vh;
         margin: 20px 20px 20px 20px;
     }
 
